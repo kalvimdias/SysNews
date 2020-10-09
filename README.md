@@ -42,3 +42,11 @@ Os usuários poderão acessar o sistema, utilizando tanto os equipamentos da emp
 **A implementação do sistema para essa empresa, é viável e necessária?**
 
 Diante de todos os pontos apresentados, é extremamente recomendável prosseguir com o processo de criação e implementação de um sistema WebApp para a empresa.
+
+## Instalação
+
+Para instalar os aplicativo, na atual versão, não é necessário a instalação de banco de dados ou algum tipo de servidor de acesso. Apenas um navegador já é necessário.
+
+Após o download dos arquivos, executar o arquivo **index.html**.
+
+Obrigador pelo download.
